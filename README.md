@@ -5,11 +5,9 @@
   <img src="./src/assets/planet.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Space Travelers' Hub</b></h3>
+  <h2><b>Space Travelers' Hub</b></h2>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -22,7 +20,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#🔭-future-features)
 - [🤝 Contributing](#🤝-contributing)
@@ -30,100 +27,65 @@
 - [📝 License](#📝-license)
 
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 Space traveler's hub <a name="about-project"></a>
-
-The application will allow users to book rockets and join selected space missions.
+# 📖 Space traveler's hub <a name="about-project"></a> 
+A web application that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
 
 ## 🛠 Built With <a name="built-with"></a>
-
-* [![React][React.js]][React-url]
-* [![Redux][redux.js.org]][Redux-url]
-
+- React
+- Redux
+- CSS3
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-To see the demo version, you can <a href="https://space-travelers-hub-wheat.vercel.app/"> Click here </a>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
+- [Live Demo](https://space-travelers-hub-wheat.vercel.app/)
 
 ### Prerequisites
+- Visual Studio Code (IDE)
+- Git
+## 💻 Getting Started <a name="getting-started"></a>
 
-- IDE(code editor) like: **Vscode**, **Sublime**, etc. 
-- [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
-
-### Setup
-
-1. Download the **Zip** file or clone the repo with:
-```bash
-git clone https://github.com/hienphan/space-travelers-hub.git
-```
-3. To access cloned directory run:
-```bash
-cd bookstore
-```
-3. Open it with the live server
-
-### Install
-
-> To install linters and other project's dependencies run:
-```bash
-npm install
-```
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
+- Clone the repository to your desired folder
 
 ```sh
-  rails server
+git clone https://github.com/hienphan/space-travelers-hub.git
 ```
---->
-
+```sh
+cd bookstore
+```
+### Install
+```sh
+npm install
+install all dependencies
+```
+### Usage
+```sh
+npm start
+start the server
+```
 ### Run tests
 
 To run tests, run the following command:
-
-<!--
-Example command:
-
 ```sh
-  bin/rails test test/models/article_test.rb
+npm run test
 ```
---->
-
-### Deployment
-
-The project was deployed which you can access this link: 
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
 1. Hien Phan
+   
 - GitHub: [@hienphan0111](https://github.com/hienphan0111)
 - Twitter: [@hienphan0111](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hien-phan-61097b256/)
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/hien-phan-61097b256/)
 
 2. Joseph David
 - GitHub: [@jodavid444](https://github.com/jodavid444)
 - Twitter: [@jodavid444](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/joseph-david-01a8a5243/)
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/joseph-david-01a8a5243/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -131,10 +93,7 @@ The project was deployed which you can access this link:
 - [ ] **Mission**
 - [ ] **Profile**
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -144,20 +103,15 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse
+I would like to thank Microverse for the project idea and contributions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 ## 📝 License <a name="license"></a>
 
 This project is contributed under [GNU 3.0](./LICENSE.md) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
